@@ -10,3 +10,7 @@ This task involves creating a login form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## T-03: Develop User Scan Screen Page
+This task involves creating a scan form component with capture image and gallary, including validation and error handling.
+**Status: Developed**
+
