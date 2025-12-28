@@ -13,4 +13,7 @@ ord fields, including validation and error handling.
 ## T-03: Develop User Scan Screen Page
 This task involves creating a scan form component with capture image and gallary, including validation and error handling.
 **Status: Developed**
+## T-05: Establish  Sign Up Screen
+This task involves creating a login form component with email or phonenumber and password,reenter password fields, including validation and error handling.
+**Status: Established**
 
