@@ -10,3 +10,7 @@ This task involves creating a login form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## T-05: Establish  Sign Up Screen
+This task involves creating a login form component with email or phonenumber and password,reenter password fields, including validation and error handling.
+**Status: Established**
+
